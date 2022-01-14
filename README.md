@@ -1,3 +1,3 @@
-# nitro-pipelines
+# NitroCI Pipelines
 
 Nitro - Pipelines
